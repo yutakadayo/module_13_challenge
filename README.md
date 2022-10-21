@@ -31,7 +31,7 @@ Details of the neural network models
 ## Conclusion
 Overall, `Alternative 1` had the best performance in accuracy score.
 
-However, with this or similar dataset, I would use `Logistic Regression` since the accuracy score is only 0.01 below the `Alternative 1` while the execution time is more than 700 times faster.
+However, with this or similar dataset, I would use `Logistic Regression` since the accuracy score is only 0.01 below the `Alternative 1` while the execution time is more than 1500 times faster.
 
 Also, `Alternative 2` has a sign of overfit because the accuracy score is lower than fewer layer models.
 
